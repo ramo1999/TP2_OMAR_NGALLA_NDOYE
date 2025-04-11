@@ -5,7 +5,7 @@
 1. **Build de l'image**
 Voici la sortie de la commande `docker build` :
 
-![Sortie de la commande docker build](im1.png)
+![Sortie de la commande docker build](/docker_tp-master/im1.png)
 
 **Interprétation :**
 
